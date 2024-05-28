@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Release\net8.0-windows\app.publish\Carotest.exe
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Release\net8.0-windows\app.publish\Carotest.dll
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Release\net8.0-windows\app.publish\Carotest.deps.json
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Release\net8.0-windows\app.publish\Carotest.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Release\net8.0-windows\app.publish\Carotest.pdb

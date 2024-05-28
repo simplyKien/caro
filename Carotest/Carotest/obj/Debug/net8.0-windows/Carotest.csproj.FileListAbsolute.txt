@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Debug\net8.0-windows\Carotest.exe
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Debug\net8.0-windows\Carotest.deps.json
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Debug\net8.0-windows\Carotest.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Debug\net8.0-windows\Carotest.dll
+C:\Users\ADMIN\source\repos\Carotest\Carotest\bin\Debug\net8.0-windows\Carotest.pdb
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.Form1.resources
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.dll
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\refint\Carotest.dll
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.pdb
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\Carotest.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Carotest\Carotest\obj\Debug\net8.0-windows\ref\Carotest.dll
